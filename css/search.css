@@ -1,0 +1,38 @@
+   .demo{
+                float: left;
+                position: relative;
+            }
+
+            .textbox{
+            float: left;
+            margin-left: 100px;
+            width: 355px;
+            height: 40px;
+            border-radius: 3px;
+            border:1px solid #e2b709;
+            padding-left: 10px;
+            margin-top: 5px;
+        }
+        .submit{
+            float: left;
+             width: 50px;
+             height: 30px;
+             margin:8px; 
+             color: white;
+             background-color: #7fbdf0;
+             border:1px solid #dedede;
+             cursor:pointer;
+        }
+        .none{
+          float: left;
+          margin-left:450px; 
+          margin-top: 20px;
+
+        }
+        #none{
+          float: left;
+          color: red;
+          margin-left: 400px;
+        }
+        .form{float: left;margin-left:100px;margin-top: 10px;}
+    .position{float: left;width:100%;border-bottom: #ccc 2px solid;}

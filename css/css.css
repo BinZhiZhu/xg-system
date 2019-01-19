@@ -1,0 +1,48 @@
+*{ margin:0; padding:0;}
+body{ font-size:12px; font-family:"Microsoft YaHei","Tahoma","Arial",'宋体'; line-height:150%; margin-left:auto; margin-right:auto; width:100%; /*color:#656565;*/}
+img{ border:none;}
+ul,li{ list-style:none; list-style-type:none;}
+div.sdmenu {
+	width: 184px;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	padding-bottom: 10px;
+	color: #fff;
+	padding:0 5px;
+}
+div.sdmenu div {
+	background:#dce5f0;
+	overflow: hidden;
+	margin-bottom:1px;
+	color:#548fc7;
+}
+div.sdmenu div span {
+	display: block;
+	padding: 0px 25px;
+	font-weight: bold;
+	color: 548fc7;
+	background: url(../images/main/expanded.jpg) no-repeat 10px center;
+	cursor: default;
+	cursor:pointer;
+	height:35px; line-height:35px;
+}
+div.sdmenu div.collapsed span {
+	background-image: url(../images/main/collapsed.jpg);
+}
+div.sdmenu div a {
+	padding: 5px 10px 5px 35px;
+	background: #eee;
+	display: block;
+	height:25px;
+	line-height:25px;
+	color: #656565;
+	background:url(../images/main/line.jpg) no-repeat 25px 15px #f2f0f5;
+}
+div.sdmenu div a:hover {
+	background :url(../images/main/line.jpg) no-repeat 25px 15px #f8f8f8;
+	color: #8c8c8c;
+	text-decoration: none;
+}
+/*footer*/
+#footer{font-size:12px; width:100%;}
+.footer_pad{padding:5px 9px 0 9px;}

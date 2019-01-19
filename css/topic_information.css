@@ -1,0 +1,76 @@
+body{
+	background: white;
+}
+p{
+	font-weight: bold;
+	margin-left: 15px;
+}
+.div1{
+	border: 1px solid white;
+	padding-bottom: 50px;
+	background: white;
+	border-radius: 5px;
+}
+table{
+	
+	border: 1px solid white;
+	border-collapse:collapse;
+	margin-top: 40px;
+	margin-left: 40px;
+	table-layout: fixed;
+	width: 1300px;
+	
+}
+.book_icon{
+	margin-right: 5px;
+	vertical-align:middle;
+	margin-top: -2px;
+}
+caption{
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: -20px;
+	
+}
+.tr1{
+	border-top: 1px solid #E8E8E8;
+}
+th{
+	width: 150px;
+	height: 50px;
+	background: white;
+	
+	
+}
+th:first-child{
+	border-left: 1px solid #E8E8E8;
+}
+th:last-child{
+	border-right: 1px solid #E8E8E8;
+}
+ table td{
+	word-wrap: break-word;
+	width: 150px;
+	height: 100px;
+	text-align: center;
+	border: 1px solid #E8E8E8;
+}
+.th1{
+	width: 600px;
+	
+}
+.td1{
+	width: 600px;
+}
+hr{
+	height:3px;border:none;border-top:2px double #E8E8E8;
+	margin-top: 0px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	
+}
+a:hover{
+	color:#3E51BF;
+}

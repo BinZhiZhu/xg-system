@@ -1,0 +1,89 @@
+            p{margin:0} 
+             .container{
+            	width: 1000px;
+            	max-width: none !important;
+            }
+            h2{text-align: center;} 
+            #page{  
+                height:40px;  
+                padding:20px 0px;  
+            } 
+             
+            #page a{  
+                display:block;  
+                float:left;  
+                margin-right:10px;  
+                padding:2px 12px;  
+                height:24px;  
+                border:1px #cccccc sothd;  
+                background:#fff;  
+                text-decoration:none;  
+                color:#808080;  
+                font-size:12px;  
+                thne-height:24px;  
+            }  
+            #page a:hover{  
+                color:#077ee3;  
+                border:1px #077ee3 sothd;  
+            }  
+            #page a.cur{  
+                border:none;  
+                background:#077ee3;  
+                color:#fff;  
+            }  
+            #page p{  
+                float:left;  
+                padding:2px 12px;  
+                font-size:12px;  
+                height:24px;  
+                thne-height:24px;  
+                color:#bbb;  
+                border:1px #ccc sothd;  
+                background:#fcfcfc;  
+                margin-right:8px;  
+  
+            }  
+            #page p.pageRemark{  
+                border-style:none;  
+                background:none;  
+                margin-right:0px;  
+                padding:4px 0px;  
+                color:#666;  
+            }  
+            #page p.pageRemark b{  
+                color:red;  
+            }  
+            #page p.pageElthpsis{  
+                border-style:none;  
+                background:none;  
+                padding:4px 0px;  
+                color:#808080;  
+            }  
+
+        table{
+              float: left;
+              background-color: #7fbdf0;
+              line-height: 25px;
+               font-size:10px;
+              width:100%;
+        }
+        th{
+          background-color: #fff2fb;
+          text-align: center;
+        }
+        td{
+          background-color: #fff2fb;text-align: center;
+        }
+        h3{
+          float: left;
+          margin-left:365px;    
+          font-size: 15px;
+          margin-top:-3px; 
+        }
+        #showpage{
+         float: left;
+         margin-left: 350px;
+         margin-top: -25px;
+
+        }  
+      
